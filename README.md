@@ -1,4 +1,4 @@
-# UnityThreading
+# unity-threading
 Simple implementation to easily perform multithreaded asynchronous operations in Unity3D.
 All feedbacks, contributions are very much welcomed.
 
